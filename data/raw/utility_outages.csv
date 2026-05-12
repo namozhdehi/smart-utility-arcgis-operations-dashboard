@@ -1,0 +1,5 @@
+outage_id,severity,customers_affected,status,outage_type,response_eta_minutes,assigned_crew,district,created_date,latitude,longitude
+OUT-1001,High,4500,Active,Transformer Failure,18,Crew-A,Northwest,2026-05-11,38.9072,-77.0369
+OUT-1002,Medium,1200,Investigating,Power Line Damage,34,Crew-B,Northeast,2026-05-11,38.8895,-77.0353
+OUT-1003,Critical,8200,Dispatched,Substation Failure,9,Crew-C,Central,2026-05-11,38.8951,-77.0364
+OUT-1004,Low,300,Resolved,Temporary Voltage Drop,42,Crew-D,Southeast,2026-05-11,38.8895,-77.0091

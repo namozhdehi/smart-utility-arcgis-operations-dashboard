@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "outage_id": "OUT-1001",
+        "severity": "High",
+        "status": "Active",
+        "district": "Northwest Utility Zone",
+        "outage_type": "Transformer Failure",
+        "customers_affected": 850,
+        "response_eta_minutes": 35,
+        "assigned_crew": "Crew-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0500, 38.9100]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "outage_id": "OUT-1002",
+        "severity": "Medium",
+        "status": "Active",
+        "district": "Downtown Utility Zone",
+        "outage_type": "Underground Cable Issue",
+        "customers_affected": 420,
+        "response_eta_minutes": 50,
+        "assigned_crew": "Crew-B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0365, 38.8900]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "outage_id": "OUT-1003",
+        "severity": "Critical",
+        "status": "Active",
+        "district": "Central Operations Zone",
+        "outage_type": "Substation Fault",
+        "customers_affected": 1450,
+        "response_eta_minutes": 20,
+        "assigned_crew": "Crew-C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0450, 38.8955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "outage_id": "OUT-1004",
+        "severity": "Low",
+        "status": "Resolved",
+        "district": "Southeast Maintenance Zone",
+        "outage_type": "Temporary Voltage Drop",
+        "customers_affected": 300,
+        "response_eta_minutes": 42,
+        "assigned_crew": "Crew-D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9950, 38.8920]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+depot_id,depot_name,crew_capacity,status,district,manager,latitude,longitude
+DEPOT-01,Northwest Utility Hub,12,Operational,Northwest,Michael Torres,38.9181,-77.0434
+DEPOT-02,Central Operations Center,18,Operational,Central,Sarah Kim,38.8958,-77.0280
+DEPOT-03,Southeast Repair Yard,9,Operational,Southeast,David Brooks,38.8765,-76.9950
